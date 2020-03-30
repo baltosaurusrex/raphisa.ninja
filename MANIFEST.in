@@ -1,0 +1,4 @@
+include raphisaninja/schema.sql
+graft raphisaninja/static
+graft raphisaninja/templates
+global-exclude *.pyc
